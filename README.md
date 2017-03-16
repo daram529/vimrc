@@ -10,3 +10,6 @@ yous vimrc에 earlymacaron이 ctag와 Nerd tree를 보탠 것에, Autocomplete�
 *ctag needs to be installed
 
 *vundle may need to be installed
+
+1. brew install ctag해주고,
+2. vundle은 걍 vim 키고 :PluginInstall 해주면 됨
